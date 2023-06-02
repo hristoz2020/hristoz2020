@@ -15,7 +15,7 @@
   
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hristoz2020&show_icons=true&locale=en&layout=compact" alt="hristoz2020" /></p> 
 
-![](https://komarev.com/ghpvc/?username=hristoz2020)
+<!-- ![](https://komarev.com/ghpvc/?username=hristoz2020) -->
 <!--
 **hristoz2020/hristoz2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
