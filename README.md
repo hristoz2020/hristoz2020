@@ -17,8 +17,6 @@
 
 ### Contact Me
 
-Feel free to connect with me! You can reach me at:
-
 - Email: hristoz.iliev.98@gmail.com
 - LinkedIn: [Hristoz Iliev](https://www.linkedin.com/in/hristoz-iliev-3a2807267/)
  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=hristoz2020" alt="hristoz2020" /> </p>
