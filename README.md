@@ -1,5 +1,7 @@
 ### 👋 Hi, I'm Hristoz 
-<p>👀 I’m interested in Web Development</p>
+<p>👀 I’m interested in Fron-End Development</p>
+
+### 🎓 Education
 <p>📚 I graduated Master's degree of Computer Systems and Technologies at Technical University of Gabrovo</p>
 <p>📚 Currently studying at SoftUni Software University</p>
   
@@ -12,12 +14,18 @@
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap" width="40" height="40"/> </a>
 
+
+### Contact Me
+
+Feel free to connect with me! You can reach me at:
+
+- Email: hristoz.iliev.98@gmail.com
+- LinkedIn: [Hristoz Iliev](https://www.linkedin.com/in/hristoz-iliev-3a2807267/)
  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=hristoz2020" alt="hristoz2020" /> </p>
- 
-  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hristoz2020&show_icons=true&locale=en&layout=compact" alt="hristoz2020" /></p> 
 
-<!-- ![](https://komarev.com/ghpvc/?username=hristoz2020) -->
+
+
 <!--
 **hristoz2020/hristoz2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
